@@ -1,4 +1,4 @@
 - Learn Git.
 - A must have weapon in the arsenal for software developer.
-- Git is veryful for handling the version of your projects and ongoing channges.
+- Git is very powerful for handling the version of your projects and ongoing channges.
 - You can track them easily.
